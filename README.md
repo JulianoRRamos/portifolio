@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juliano R. Ramos</h1>
 <h3 align="center">A passionate Technology, Process and Data Science</h3>
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 I’m currently learning **PySpark, AWS Cloud e GCP Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JulianoRRamos/portifolio](https://github.com/JulianoRRamos/portifolio)
 
-- 💬 Ask me about **Data Science, Agile, Software Process, Business Analysis, Requirements Analysis**
+- 💬 Ask me about **Data Engineer, Data Science, Agile, Software Process, Business Analysis, Requirements Analysis**
 
 - 📫 How to reach me **juliano_rr@yahoo.com.br**
 
@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juliano-rodrigues-ramos-73b07146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliano-rodrigues-ramos-73b07146/" height="30" width="40" /></a>
 <a href="https://kaggle.com/juliano ramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="juliano ramos" height="30" width="40" /></a>
-<a href="https://fb.com//juliano.ramos.908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/juliano.ramos.908" height="30" width="40" /></a>
 <a href="https://instagram.com/juliano.ramos.908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juliano.ramos.908" height="30" width="40" /></a>
 <a href="https://discord.gg/#7850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7850" height="30" width="40" /></a>
 </p>
