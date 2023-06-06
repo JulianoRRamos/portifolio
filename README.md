@@ -2,7 +2,7 @@
 <h3 align="center">Here are some of my projects</h3>
 
 
-- Project "House Rocket Company" [https://github.com/JulianoRRamos/portifolio](https://github.com/JulianoRRamos/house-rocket-production)
+- Project "House Rocket Company" [https://github.com/JulianoRRamos/house-rocket-production](https://github.com/JulianoRRamos/house-rocket-production)
 - Project "RossMan" [https://github.com/JulianoRRamos/house-rocket-production](https://github.com/JulianoRRamos/DS_Producao)
 
 
